@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The groups the current user is part of are: $(id -Gn)"
+echo "$(id -Gn)"
